@@ -1,0 +1,30 @@
+.navbar .nav > li > a {
+    float: none;
+    line-height: 19px;
+    padding: 9px 10px 11px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    color:  #383;
+}
+
+body, btn {
+	font-family: ‘Open Sans’, Arial, serif; 
+	font-weight: 800; 
+    padding-top: 65px; 
+}
+
+.mosaicflow__column { float:left; padding-right: 2%; } 
+.mosaicflow__item img { display:block; width:100%; height:auto; margin-bottom: 7%;
+    box-shadow: 5px 5px 5px #7C7C7C;} 
+
+body{
+	background: white;
+	padding-top: 4%;
+	margin-bottom: 7%;
+}
+.container1{
+ padding-right: 205px;
+  padding-left: 105px;
+  margin-right: auto;
+  margin-left: auto;
+</style>

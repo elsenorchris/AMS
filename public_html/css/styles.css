@@ -1,0 +1,114 @@
+*
+/*End Drop Down Navigation */
+
+
+body { 
+	font-family: ‘Open Sans’, Arial, serif; 
+	font-weight: 800; 
+	font-style:italic;
+	}
+
+/*Contact Links*/
+
+#contact {
+	width:960px;
+	margin-bottom:20px;
+	margin-top:10px;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+	}
+	
+#contact img {
+	padding-right:10px;
+	padding-left:10px;
+	}
+
+#contact2 {
+	width:960px;
+	margin-bottom:30px;
+	margin-top:580px;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+	}
+
+#contact2 img {
+	padding-right:10px;
+	padding-left:10px;
+	}
+
+article	{
+	margin-top:30px;
+	margin-left:20px;
+	}
+
+/*About Me Page*/
+
+#aboutleft	{
+	width:320px;
+	float:left;
+	margin-right:5px;
+	margin-top:20px;
+	}
+
+#aboutright	{
+	width:600px;
+	float:right;
+	margin-left:5px;
+	margin-top:20px;
+	}
+
+h2	{
+	text-indent:20px;
+	line-height:150%;
+	font-weight:600;
+	font-size:16px;
+	padding-bottom:10px;
+	}
+
+h2 a	{							
+	text-decoration: underline;  
+	color:#484848; 
+	}
+
+h3	{
+	font-weight:300;
+	font-size:16px;
+	font-style:italic;
+	padding-top:15px;
+	padding-bottom:5px;
+	color:#1BC6E0;
+	}
+
+h4	{
+	font-weight:500;
+	font-size:16px;
+	text-indent:10px;
+	}
+
+p	{
+	text-indent:20px;
+	margin-top:10px;
+	}
+
+#travelgrouped	{
+	width:960px;
+	height:500px;
+	margin-top:30px;
+	margin-bottom:30px;
+	}
+
+#travel	{
+	width:600px;
+	height:450px;
+	float:left;
+	}
+
+#travelcopy	{
+	width:300px;
+	height:450px;
+	float:right;
+	}
+
+
